@@ -18,3 +18,12 @@ body {
 [class^=gridContainer] {
   max-width: 100%;
 }
+
+[id^=chat-messages] {
+  margin-bottom: 25px;
+}
+
+[class^=member],
+[class^=childContainer] {
+  width: 400px;
+}
