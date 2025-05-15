@@ -15,15 +15,19 @@ body {
   font-size: 13px;
 }
 
-[class^=gridContainer] {
+[class^="gridContainer"] {
   max-width: 100%;
 }
 
-[id^=chat-messages] {
+[id^="chat-messages"] {
   margin-bottom: 25px;
 }
 
-[class^=member],
-[class^=childContainer] {
+[class^="member"],
+[class^="childContainer"] {
   width: 400px;
+}
+
+[class^="searchResultsWrap"] {
+  width: 45%;
 }
