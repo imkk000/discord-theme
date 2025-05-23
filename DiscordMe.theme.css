@@ -21,3 +21,7 @@
 [class^="searchResultsWrap"] {
   width: 45%;
 }
+
+[data-list-item-id^="members"]>[class^="container"] {
+  max-width: 100%;
+}
