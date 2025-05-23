@@ -9,12 +9,6 @@
 
 @import url(https://catppuccin.github.io/discord/dist/catppuccin-mocha-pink.theme.css);
 
-html,
-body {
-  font-family: JetBrainsMono Nerd Font;
-  font-size: 13px;
-}
-
 [class^="gridContainer"] {
   max-width: 100%;
 }
